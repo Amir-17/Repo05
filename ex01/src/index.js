@@ -3,7 +3,7 @@ function main(){
     var myFirstName = "Amir";
     var myLastName = "Kahriman";
     var myHomeTown = "Sarajevo";
-    // only change code abowe this line
+    // only change code above this line
     return {
         myFirstName,
         myLastName,

@@ -5,7 +5,7 @@ function main() {
     var myAdjective = "big";
     var myAdverb = "quickly";
     var wordBlanks = "My " + myAdjective + " " + myNoun + " can " + myVerb + " " + myAdverb + ".";
-    // only change code abowe this line
+    // only change code above this line
     return wordBlanks;
 }
 console.log(main());
